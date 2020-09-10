@@ -10,7 +10,7 @@ Objective C   | Core Image, Core Audio, Speech, PDFKit | Codable | CloudKit
 Python        | MapKit, Core Location, Core Animation, Dispatch | URLSession | Firebase 
 
 👨🏽‍🔧 Currently working on updating Vocable, NEWSC, and Journaly projects  
-📖 Currently reading Testing Swift by Paul Hudson and Working In Public by Nadia Eghbal  
+📖 Currently reading [_Testing Swift_ by Paul Hudson](https://www.hackingwithswift.com/store/testing-swift) and [_Working In Public_ by Nadia Eghbal](https://press.stripe.com/#working-in-public)  
 🕵🏽‍♂️Looking for iOS Developer opportunities
 
 ⚡️Fun Fact: I was an extra for The Office! Yes, the TV show. Can you guess which episode?
