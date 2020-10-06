@@ -10,8 +10,8 @@ With a background in sales and customer service I bring meaningful and genuine c
 ⚡️Fun Fact: I was an extra for The Office! Yes, the TV show. Can you guess which episode?
 ___
 ## Tech Stack
-__Languages__ | __Apple Frameworks__ | __Networking__ | __Database__
-------------- | -------------------- | -------------- | -------------
-Swift         | UIKit, tvOS, AVFoundation, XCTest | REST APIs | Core Data 
-Objective C   | Core Image, Core Audio, Speech, PDFKit | Codable | CloudKit 
-Python        | MapKit, Core Location, Core Animation, Dispatch | URLSession | Firebase 
+__Languages__ | __Apple Frameworks__ | __Networking__ | __Database__ | __Technologies/Methods__
+------------- | -------------------- | -------------- | ------------- | ----------------------
+Swift         | UIKit, tvOS, AVFoundation, Unit Testing | REST APIs | Core Data | Algorithms, Data Structures
+Objective C   | Core Image, Core Audio, Speech, PDFKit | Codable | CloudKit | MVC, MVVM, Agile, Git
+Python        | MapKit, Core Location, Core Animation, GCD, Multithreading | URLSession | Firebase | Carthage, Cocoapods
