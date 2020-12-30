@@ -19,10 +19,10 @@ I have 5+ years of background in sales and customer service and then decided to 
 
 🦸🏽‍♂️ When I’m not changing the world with coding you can find me spending quality time with my family and friends, crushing an intense CrossFit workout (well, trying at least), watching a show or a movie, or reading a book.
 
-😍 I have a huge passion for TV, movies, streaming, gaming; essentially any forms of entertainment.
+😍 I have a huge passion for TV, movies, streaming, gaming; essentially any forms of entertainment.  
 📱 I have an enormous interest in application architecture, test-driven development, tvOS, Apple’s AVKit framework & HLS, and delivering top-notch user experiences.
 
-📚 Currently reading Testing Swift by Paul Hudson and Working In Public by Nadia Eghbal
+📚 Currently reading Testing Swift by Paul Hudson and Working In Public by Nadia Eghbal  
 ⭐️ Fun Fact: I was an extra for The Office! Yes, the TV show. Can you guess which episode?
 
 🤝 Let’s connect! Email me at jesseleeruiz@pm.me I look forward to meeting and working with you! 
