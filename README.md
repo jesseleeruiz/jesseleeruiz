@@ -22,6 +22,6 @@ ___
 ## Tech Stack
 __Languages__ | __Apple Frameworks__ | __Networking__ | __Database__ | __Technologies/Methods__
 ------------- | -------------------- | -------------- | ------------- | ----------------------
-Swift         | UIKit, tvOS, AVFoundation, Unit Testing | REST APIs | Core Data | Algorithms, Data Structures
-Objective C   | Core Image, Core Audio, Speech, PDFKit | Codable | CloudKit | MVC, MVVM, Agile, Git
-Python        | MapKit, Core Location, Core Animation, GCD, Multithreading | URLSession | Firebase | Carthage, Cocoapods
+Swift         | UIKit, SwiftUI, tvOS, AVFoundation, Unit Testing | REST APIs, Async Await | Core Data, Realm | Algorithms, Data Structures
+Objective C   | Core Image, Core Audio, Speech, PDFKit | Codable, Concurrency | CloudKit | MVC, MVVM, Agile, Git
+Python        | MapKit, Core Location, Core Animation, GCD, Multithreading | URLSession | Firebase | Carthage, Cocoapods, SPM
